@@ -17,10 +17,10 @@
 👆🤓 诶 是的！ 都2024年了，Github在线预览还是不能变红，建议本地打开  
 <span style="color: green;">当然，您也可以根据自己习惯选择其他方式</span>
 
-💡 学习内容 
-⌨ 编程语言：Java, Python 
-🛠️ 开发工具：Git, GitKraken, Vim 
-🗄️ 数据库管理：AWS DB, MongoDB 
+💡 学习内容  
+⌨ 编程语言：Java, Python  
+🛠️ 开发工具：Git, GitKraken, Vim  
+🗄️ 数据库管理：AWS DB, MongoDB  
 
 🙌 合作者 
 - [Mandy](https://github.com/Mandy-MM)
