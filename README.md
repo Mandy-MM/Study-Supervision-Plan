@@ -14,7 +14,7 @@
 ```markdown
 <span style="color: red;">这是红色text</span>
 ```
-👆🤓 诶 是的！ 都2024年了，Github在线预览还是不能变红，建议本地打开
+👆🤓 诶 是的！ 都2024年了，Github在线预览还是不能变红，建议本地打开 
 <span style="color: green;">当然，您也可以根据自己习惯选择其他方式</span>
 
 💡 学习内容 
