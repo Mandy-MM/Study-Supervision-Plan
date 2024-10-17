@@ -20,7 +20,7 @@
 💡 学习内容  
 ⌨ 编程语言：Java, Python  
 🛠️ 开发工具：Git, GitKraken, Vim  
-🗄️ 数据库管理：AWS DB, MongoDB  
+🗄️  数据库管理：AWS DB, MongoDB  
 
 🙌 合作者 
 - [Mandy](https://github.com/Mandy-MM)
