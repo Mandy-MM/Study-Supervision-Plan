@@ -19,8 +19,9 @@
 👆🤓 诶 是的！ 都2024年了，Github在线预览还是不能变红，建议本地打开  
 <span style="color: green;">当然，您也可以根据自己习惯选择其他方式</span>
  
- 🎯 **目标** 是一个长期计划文件，您可以自由添加和修改您的长期目标。后续也可以作为制定子目标、跟踪进度的存放区域，并支持记录各种格式的文件，如 .txt, .md, .pdf, .xlsx 等，用于详细描述目标和计划的各个阶段。
- ✨ *"The trouble with not having a goal is that you can spend your life running up and down the field and never score."*
+ 🎯 **目标** 是一个长期计划文件，您可以自由添加和修改您的长期目标。后续也可以作为制定子目标、跟踪进度的存放区域，并支持记录各种格式的文件，如 .txt, .md, .pdf, .xlsx 等，用于详细描述目标和计划的各个阶段。  
+
+✨ *"The trouble with not having a goal is that you can spend your life running up and down the field and never score."*
 
 
 💡 学习内容  
@@ -31,8 +32,8 @@
 🙌 合作者 
 - [Mandy](https://github.com/Mandy-MM)
 布里斯托大学 计算机科学本科大一在读
-主线：计算机体系结构，编程基础，离散数学
-爱好：寻找兴趣方向中🧐
+主线：计算机体系结构，编程基础，离散数学  
+爱好：寻找兴趣方向中🧐  
 🚧 **施工中** 
 
 - [Each](https://github.com/Each9084) 
