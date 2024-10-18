@@ -9,9 +9,24 @@
 - 预习两个week的内容
 
 **具体任务**
-
 - 每一个小时一个lab
 - 看pre-watch视频
+
+**Timetable**
+| 时间 | 任务 |  |
+| :----: | :----: | :----: |
+| 8:20 - 9:00 | 起床吃早饭 | |
+| 9:15 - 10:00 | LAB2 POSIX Fundamentals | https://github.com/cs-uob/software-tools/tree/main/02-fundamentals |  
+| 10:15 - 11:00 | LAB3 Regular expressions | https://github.com/cs-uob/software-tools/tree/main/03-regex |  
+| 11:00 - 12:00 | LAB4/5 GIT| https://github.com/cs-uob/software-tools/tree/main/04-git |  
+| 12:00 - 14:00 | Clifton Observatory Tour | https://events.timely.fun/v0wnsgaj/event/77681678 |  
+| 15:30 - 17:00 | 查漏补缺software_tool | |  
+| 17:00 - 18:00 | 预习LAB5| https://github.com/cs-uob/software-tools/tree/main/06-buildtools/lab|  
+| 18:00-19:30 | 做饭🍳 |  |
+| 20:00-21:00 | 写CV | https://mycareer.bristol.ac.uk/student/incompleteRegistration.html |
+| 21:00-22:00 | 运动洗漱 ||
+
+
 
 **预期结果**
 
