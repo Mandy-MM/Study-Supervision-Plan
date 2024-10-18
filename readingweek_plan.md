@@ -1,9 +1,11 @@
 # day 1 学习计划
 
 ## Mandy
+**假期内必完成事项**
+- computer architecture考试卷
+- haskell summative task
 
 **学习目标**
-
 - 学习Git的基础命令
 - 完成software tool lab内容
 - 预习两个week的内容
@@ -17,10 +19,11 @@
 | 时间 | 任务 |  |
 | :----: | :----: | :----: |
 | 8:20 - 9:00 | 起床吃早饭 | |
-| 9:15 - 10:00 | LAB2 POSIX Fundamentals | https://github.com/cs-uob/software-tools/tree/main/02-fundamentals |  
-| 10:15 - 11:00 | LAB3 Regular expressions | https://github.com/cs-uob/software-tools/tree/main/03-regex |  
-| 11:00 - 12:00 | LAB4/5 GIT| https://github.com/cs-uob/software-tools/tree/main/04-git |  
-| 12:00 - 14:00 | Clifton Observatory Tour | https://events.timely.fun/v0wnsgaj/event/77681678 |  
+| 9:15 - 11:00 | 看比赛 | |
+| 11:00 - 12:00 | LAB2 POSIX Fundamentals | https://github.com/cs-uob/software-tools/tree/main/02-fundamentals |  
+| 12:00 - 13:00 | LAB3 Regular expressions | https://github.com/cs-uob/software-tools/tree/main/03-regex |
+| 13:00 - 14:30 | 吃饭 | |
+| 14:30 - 15:30 | LAB4/5 GIT| https://github.com/cs-uob/software-tools/tree/main/04-git |    
 | 15:30 - 17:00 | 查漏补缺software_tool | |  
 | 17:00 - 18:00 | 预习LAB5| https://github.com/cs-uob/software-tools/tree/main/06-buildtools/lab|  
 | 18:00-19:30 | 做饭🍳 |  |
