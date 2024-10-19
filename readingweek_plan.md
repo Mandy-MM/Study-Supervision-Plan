@@ -18,7 +18,7 @@
 **Timetable**
 | 时间 | 任务 |  |
 | :----: | :----: | :----: |
-| 8:20 - 9:00 | 起床吃早饭 | |
+| 8:30 - 9:00 | 起床吃早饭 | |
 | 9:15 - 11:00 | 看比赛 | |
 | 11:00 - 12:00 | LAB2 POSIX Fundamentals | https://github.com/cs-uob/software-tools/tree/main/02-fundamentals |  
 | 12:00 - 13:00 | LAB3 Regular expressions | https://github.com/cs-uob/software-tools/tree/main/03-regex |
