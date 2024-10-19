@@ -16,12 +16,12 @@
 - 看pre-watch视频
 
 **Timetable**
-| 时间 | 任务 |  |
+| 时间 | 任务 | 学习具体内容 |
 | :----: | :----: | :----: |
 | 8:30 - 9:00 | 起床吃早饭 | |
 | 9:15 - 11:00 | 看比赛 | |
-| 11:00 - 12:00 | LAB2 POSIX Fundamentals | https://github.com/cs-uob/software-tools/tree/main/02-fundamentals |  
-| 12:00 - 13:00 | LAB3 Regular expressions | https://github.com/cs-uob/software-tools/tree/main/03-regex |
+| 11:00 - 12:00 | LAB2 POSIX Fundamentals | (shell/permission/写脚本) https://www.notion.so/LAB-2-fundamentals-shell-124f0188c6a0800b9f4ce96bbb99fdb4?pvs=4 |  
+| 12:00 - 13:00 | LAB3 Regular expressions | （grep/sed）https://www.notion.so/LAB-3-Regex-Regular-Expressions-124f0188c6a080809fa5c647fcb225bd |
 | 13:00 - 14:30 | 吃饭 | |
 | 14:30 - 15:30 | LAB4/5 GIT| https://github.com/cs-uob/software-tools/tree/main/04-git |    
 | 15:30 - 17:00 | 查漏补缺software_tool | |  
