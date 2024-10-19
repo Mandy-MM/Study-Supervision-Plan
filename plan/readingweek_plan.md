@@ -23,23 +23,21 @@
 | 11:00 - 12:00 | LAB2 POSIX Fundamentals | (shell/permission/写脚本) https://www.notion.so/LAB-2-fundamentals-shell-124f0188c6a0800b9f4ce96bbb99fdb4?pvs=4 |  
 | 12:00 - 13:00 | LAB3 Regular expressions | （grep/sed）https://www.notion.so/LAB-3-Regex-Regular-Expressions-124f0188c6a080809fa5c647fcb225bd |
 | 13:00 - 14:30 | 吃饭 | |
-| 14:30 - 15:30 | LAB4/5 GIT| https://github.com/cs-uob/software-tools/tree/main/04-git |    
+| 14:30 - 15:30 | LAB4/5 GIT| (撤销,冲突,分支,拉取请求)https://www.notion.so/LAB-4-5-git-124f0188c6a0809ea22cfa237c6b909d |    
 | 15:30 - 17:00 | 查漏补缺software_tool | |  
-| 17:00 - 18:00 | 预习LAB5| https://github.com/cs-uob/software-tools/tree/main/06-buildtools/lab|  
+| 17:00 - 18:00 | 预习LAB5| |  
 | 18:00-19:30 | 做饭🍳 |  |
 | 20:00-21:00 | 写CV | https://mycareer.bristol.ac.uk/student/incompleteRegistration.html |
 | 21:00-22:00 | 运动洗漱 ||
 
-
-
 **预期结果**
-
 - 掌握Git的基本操作
 - 完成全部lab内容
 - 预习前两周内容
 - 写一点cv
 
-
+**完成情况**
+预习没来的及，cv也没来得及写，睡觉时间得往后延不然完不成任务，lab内容2-5完成（完成时间和时间表上完全不一样）
 
 ## EACH
 
@@ -70,3 +68,44 @@
 - 完成Assignment5的所有内容
 - 上传新的二分算法到仓库
 - 初步绘制flutter页面布局
+
+# day 2 学习计划
+
+## Mandy
+**假期内必完成事项**
+- computer architecture考试卷
+- haskell summative task
+
+**学习目标**
+- 掌握C语言的循环控制和函数与指针的基础
+- 完成相关练习
+- 完成结构体的练习
+- 复习昨天内容
+
+**具体任务**
+- 每一个小时完成一到两节课，按时完成练习
+
+**Timetable**
+| 时间 | 任务 | 完成度 |
+| :----: | :----: | :----: |
+| 8:00 - 9:30 | 起床洗漱吃饭看比赛 | |
+| 9:30 - 10:30 | 第13课：for循环 | |
+| 10:30 - 11:30 | 第14课：while循环 | |
+| 11:30 - 12:30 | 第15课：循环嵌套 | |
+| 12:30 - 13:30 | 第16课：循环控制 | |
+| 13:30 - 14:30 | 吃饭 | |
+| 14:30 - 15:30 | 第17课：判断和循环小结 | |
+| 15:30 - 16:30 | 第18课：初识函数 | |
+| 16:30 - 17:30 | 第19课：函数的定义 | |
+| 17:30 - 18:30 | 第20课：函数的使用 | |
+| 18:30 - 19:30 | 做饭🍳 | |
+| 20:00 - 21:00 | 第21课：指针的定义 | |
+| 21:00 - 22:00 | 第22课：指针的使用 | |
+| 22:00 - 23:00 | 复习software tool和写CV | |
+
+**预期结果**
+- 掌握C语言的循环和函数、指针的基本概念
+- 完成全部课时和练习
+- 为接下来的结构体学习做好准备
+
+**完成情况**
