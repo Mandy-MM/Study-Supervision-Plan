@@ -233,11 +233,14 @@ git commit -am "message"
 
 ```bash
 git merge <branch>
+```
 
 > 变基用于将当前分支的更改重新应用到另一个分支的基础上，以保持提交历史的整洁、线性。它可以避免额外的合并提交，让历史记录看起来像是按顺序提交的。
+
 ```bash
 git rebase <branch>
+```
 
-git merge 和 git rebase 的区别：merge 会产生一个新的合并提交并保留分支历史，而 rebase 会将当前分支的提交重排到目标分支之后，不产生额外的合并提交。
+> git merge 和 git rebase 的区别：merge 会产生一个新的合并提交并保留分支历史，而 rebase 会将当前分支的提交重排到目标分支之后，不产生额外的合并提交。
 
 🚧 **其他共同学习细节正在施工中** 
