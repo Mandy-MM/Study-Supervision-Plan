@@ -121,3 +121,44 @@
 - 完成Assignment5的所有内容
 - 上传新的二分算法到仓库
 - 初步绘制flutter页面布局
+
+## Mandy
+**假期内必完成事项**  
+- computer architecture考试卷  
+- haskell summative task  
+
+**学习目标**  
+- 补C语言的Lab和课上内容  
+- 学习Haskell 2.3-2.12章节，完成 `set2.hs`  
+- 晚上继续写CV  
+
+**具体任务**  
+- 难度较高的内容学习时间为30分钟，难度较低的学习时间为15分钟  
+
+**Timetable**
+
+| 时间            | 任务                   | 完成度 | 学习具体内容 |
+| :-------------: | :--------------------: | :----: ||
+| 8:30 - 9:00     | 起床洗漱               |        ||
+| 9:00 - 10:00    | 买菜                   |        ||
+| 10:00 - 13:00   | 学C语言，补Lab和课上内容 |        ||
+| 13:00 - 14:00   | 午饭                   |        ||
+| 14:00 - 14:45   | Haskell 2.3: Lists     |        ||
+| 14:45 - 15:00   | Haskell 2.4: Immutability |        ||
+| 15:00 - 15:30   | Haskell 2.5: Type Inference and Polymorphism |        ||
+| 15:30 - 16:00   | Haskell 2.6: The Maybe Type |        ||
+| 16:00 - 16:15   | Haskell 2.7: Constructors  |        ||
+| 16:15 - 16:45   | Haskell 2.8: The Either Type |        ||
+| 16:45 - 17:15   | Haskell 2.9: The case-of Expression |        ||
+| 17:15 - 17:30   | Haskell 2.10: Pattern Matching Recap |        ||
+| 17:30 - 18:00   | Haskell 2.11: Quiz     |        ||
+| 18:00 - 18:45   | Haskell 2.12: Exercises，写 `set2.hs` |        ||
+| 18:45 - 19:30   | 晚饭                   |        ||
+| 19:30 - 20:30   | 写CV                   |        ||
+| 20:30 - 23:00   | 总结及其他任务          |        ||
+| 23:00           | 睡觉                   |        ||
+
+**预期结果**  
+- 补完C语言的Lab和课上内容  
+- 完成Haskell 2.3到2.12的学习，完成 `set2.hs`  
+- CV 写一点
