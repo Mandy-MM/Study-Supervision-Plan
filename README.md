@@ -23,6 +23,8 @@
 
 ✨ *"The trouble with not having a goal is that you can spend your life running up and down the field and never score."*
 
+📋 **plan** 文件夹用于存放每日计划、时间表、待完成事项等内容，帮助您高效管理和安排学习、工作任务。您可以在此文件夹中自由创建每日的计划文档，文档格式可以是 `.txt`、`.md`、`.pdf`、`.xlsx` 等。
+
 
 💡 学习内容  
 ⌨ 编程语言：Java, Python，Dart, Haskell  
