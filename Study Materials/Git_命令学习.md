@@ -4,10 +4,7 @@
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Icon" width="100"/>
 
-如果Mandy老师想系统地学习Git，安利B站GeekHour老师的课程：🔗[一小时Git教程](https://www.bilibili.com/video/BV1HM411377j/),省时省力，便于理解，快速入门
-
-🎖️Markdown毕竟还是不太直观，建议Mandy老师和我当做查询的工具书，系统性学习还是跟着课程走  
-✂️为了精简主页，未来随着学习越来越，待熟练掌握后，会将此教程转入专门的文件夹中😄
+如果Mandy老师想系统地学习Git，安利B站GeekHour老师的课程：🔗[一小时Git教程](https://www.bilibili.com/video/BV1HM411377j/),省时省力，便于理解，快速入门   
 
 #### 初始化  (操作)
 
