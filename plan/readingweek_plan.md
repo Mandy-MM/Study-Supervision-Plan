@@ -142,33 +142,33 @@ assignment5的难度远超了我的预期,导致一整天都没写完.
 
 **Timetable**
 
-| 时间            | 任务                   | 完成度 | 学习具体内容 |
-| :-------------: | :--------------------: | :----: ||
-| 8:30 - 9:00     | 起床洗漱               |        ||
-| 9:00 - 10:00    | 买菜                   |        ||
-| 10:00 - 13:00   | 学C语言，补Lab和课上内容 |        ||
-| 13:00 - 14:00   | 午饭                   |        ||
-| 14:00 - 14:45   | Haskell 2.3: Lists     |        ||
-| 14:45 - 15:00   | Haskell 2.4: Immutability |        ||
-| 15:00 - 15:30   | Haskell 2.5: Type Inference and Polymorphism |        ||
-| 15:30 - 16:00   | Haskell 2.6: The Maybe Type |        ||
-| 16:00 - 16:15   | Haskell 2.7: Constructors  |        ||
-| 16:15 - 16:45   | Haskell 2.8: The Either Type |        ||
-| 16:45 - 17:15   | Haskell 2.9: The case-of Expression |        ||
-| 17:15 - 17:30   | Haskell 2.10: Pattern Matching Recap |        ||
-| 17:30 - 18:00   | Haskell 2.11: Quiz     |        ||
-| 18:00 - 18:45   | Haskell 2.12: Exercises，写 `set2.hs` |        ||
-| 18:45 - 19:30   | 晚饭                   |        ||
-| 19:30 - 20:30   | 写CV                   |        ||
-| 20:30 - 23:00   | 总结及其他任务          |        ||
-| 23:00           | 睡觉                   |        ||
+| 时间           | 任务                                | 完成度 | 学习具体内容                                     |
+|:-------------:|:----------------------------------:|:------:|:----------------------------------------------:|
+| 8:30 - 9:00   | 起床洗漱                           |        |                                                |
+| 9:00 - 10:00  | 买菜                               |        |                                                |
+| 10:00 - 13:00 | 学C语言，补Lab和课上内容             |        |                                                |
+| 13:00 - 14:00 | 午饭                               |        |                                                |
+| 14:00 - 14:45 | Haskell 2.3: Lists                 |        |                                                |
+| 14:45 - 15:00 | Haskell 2.4: Immutability          |        |                                                |
+| 15:00 - 15:30 | Haskell 2.5: Type Inference and Polymorphism |        |                                                |
+| 15:30 - 16:00 | Haskell 2.6: The Maybe Type        |        |                                                |
+| 16:00 - 16:15 | Haskell 2.7: Constructors          |        |                                                |
+| 16:15 - 16:45 | Haskell 2.8: The Either Type       |        |                                                |
+| 16:45 - 17:15 | Haskell 2.9: The case-of Expression |        |                                                |
+| 17:15 - 17:30 | Haskell 2.10: Pattern Matching Recap |        |                                                |
+| 17:30 - 18:00 | Haskell 2.11: Quiz                 |        |                                                |
+| 18:00 - 18:45 | Haskell 2.12: Exercises，写 `set2.hs`  |        |                                                |
+| 18:45 - 19:30 | 晚饭                               |        |                                                |
+| 19:30 - 20:30 | 写CV                               |        |                                                |
+| 20:30 - 23:00 | 总结及其他任务                     |        |                                                |
+| 23:00         | 睡觉                               |        |                                                |
 
 **预期结果**  
 - 补完C语言的Lab和课上内容  
 - 完成Haskell 2.3到2.12的学习，完成 `set2.hs`  
 - CV 写一点
 
-# day 3 学习计划
+# day 4 学习计划
 
 ## Each
 
@@ -202,3 +202,33 @@ assignment5的难度远超了我的预期,导致一整天都没写完.
 - 功能模块开发测试成功
 
 - 23:00睡觉
+
+## Mandy
+
+**Timetable**
+
+| 时间            | 任务                                       | 其他      |
+|:--------------:|:-----------------------------------------:|:--------:|
+| 9:00 - 10:30   | 起床吃早饭                                |          |
+| 10:30 - 12:30  | 复习C Lab                                 |          |
+| 12:30 - 13:00  | 午饭                                       |          |
+| 13:00 - 13:20  | Haskell 2.3: Lists                        |          |
+| 13:20 - 13:40  | Haskell 2.4: Immutability                 |          |
+| 13:40 - 14:00  | Haskell 2.5: Type Inference and Polymorphism |          |
+| 14:00 - 14:20  | Haskell 2.6: The Maybe Type               |          |
+| 14:20 - 14:40  | Haskell 2.7: Constructors                 |          |
+| 14:40 - 15:00  | Haskell 2.8: The Either Type              |          |
+| 15:00 - 15:20  | Haskell 2.9: The case-of Expression       |          |
+| 15:20 - 15:40  | Haskell 2.10: Pattern Matching Recap      |          |
+| 15:40 - 16:00  | Haskell 2.11: Quiz                        |          |
+| 16:00 - 17:00  | Haskell 2.12: Exercises，写 `set2.hs`     |          |
+| 17:00 - 17:30  | 晚饭                                      |          |
+| 17:30 - 17:45  | 写CV                                      |          |
+| 17:45 - 23:00  | 其他学习任务                              |          |
+| 23:00 - 23:30  | 整理、准备睡觉                            |          |
+| 23:30          | 睡觉                                      |          |
+
+**预期结果**  
+- 补完C语言的Lab和课上内容  
+- 完成Haskell 2.3到2.12的学习，完成 `set2.hs`  
+- CV 写一点
