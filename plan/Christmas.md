@@ -249,11 +249,19 @@ Harvard CS50
 ## Mandy
 
 **学习目标**
+- 学linear algebra ：
+    1806 章节：
+        The Geometry of Linear Equations
+        An Overview of Key Ideas
+    3Blue1Brown 视频：
+        第1集（Vectors, what even are they?）
+        第2集（Linear combinations, span, and basis vectors）
+  
 **Timetable**
 |    时间     |      任务      |    完成度    |
 | :---------: | :--------------: | :----------: |
-| 14:30-16:30 | 学linear algebra |        |
-| 16:30-17:30 |  学problem set   |          |
+| 14:30-16:30 | 3Blue1Brown视频 |        |
+| 16:30-17:30 | 1806视频&problem |          |
 | 17:30-18:30 |   学CA(pre note)  |          |
 | 18:30-19:30 |    学cs50(note)   |          |
 | 19:30-20:30 |    学java(note)   |          |
