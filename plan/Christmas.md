@@ -8,6 +8,7 @@ cs61b
 - ca课程
 第二学期需求，推荐 伯克利 CS61C: Great Ideas in Computer Architecture
 Coursera - University of Illinois: Computer Systems: A Programmer's Perspective
+https://www.learncs.site/docs/curriculum-resource/cs61c/syllabus
 
 - software tool
 Harvard CS50
