@@ -250,11 +250,11 @@ Harvard CS50
 
 **学习目标**
 - 学linear algebra ：
-    1806 章节：
-        The Geometry of Linear Equations
+- 1806 章节：
+        The Geometry of Linear Equations &
         An Overview of Key Ideas
-    3Blue1Brown 视频：
-        第1集（Vectors, what even are they?）
+- 3Blue1Brown 视频：
+        第1集（Vectors, what even are they?）&
         第2集（Linear combinations, span, and basis vectors）
   
 **Timetable**
